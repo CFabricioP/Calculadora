@@ -1,20 +1,26 @@
 Ejercicio de Calculadora Basica
-
+Nombre: Carlos Pozo
 
 Captura de suma de numeros
 
-![image](https://github.com/Oliverzam/Calculadora/assets/96132154/b5ac5437-9e8f-4c59-abd9-e69b7189c5a1)
+![imagen](https://github.com/CFabricioP/Calculadora/assets/96064271/88ba9313-7887-434a-8b8e-31f82fca54c6)
+
 
 
 Captura de resta
 
-![image](https://github.com/Oliverzam/Calculadora/assets/96132154/fe15527f-c86c-41c5-be11-16ce00128490)
+![imagen](https://github.com/CFabricioP/Calculadora/assets/96064271/f47ea3af-6918-4ac2-87db-ef1ae1039f91)
 
-Captura de multiplicación
 
-![image](https://github.com/Oliverzam/Calculadora/assets/96132154/35aeb7c7-98d3-4804-8611-0bc95cc2c16a)
+Catura de Multiplicacion
+
+![imagen](https://github.com/CFabricioP/Calculadora/assets/96064271/c33a45cd-828d-4785-b5aa-ddda3634ee65)
+
+
 
 Captura de División
 
-![image](https://github.com/Oliverzam/Calculadora/assets/96132154/9a9f0295-d64b-4b50-9624-d22ba862c971)
+![imagen](https://github.com/CFabricioP/Calculadora/assets/96064271/aa80580b-714d-4ff9-a680-be0d8c4604ad)
+
+
 
